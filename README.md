@@ -5,7 +5,6 @@ jpg 87kb --> 11kb webp
 ```
 npm i
 node app.js
-
 ```
 
 
