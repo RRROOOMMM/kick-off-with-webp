@@ -1,0 +1,15 @@
+{
+  "name": "webp",
+  "version": "1.0.0",
+  "description": "test of image compression",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "imagemin": "^6.0.0",
+    "imagemin-webp": "^4.1.0"
+  }
+}
